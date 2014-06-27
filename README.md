@@ -3,4 +3,4 @@ tutorials
 
 tutorials
 
-A simple collection of useful command and know-how's.
+A simple collection of useful commands and know-how's.
